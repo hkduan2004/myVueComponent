@@ -31,7 +31,7 @@
     "contributor:generate": "all-contributors generate"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "better-scroll": "^1.13.4",
     "element-ui": "^2.8.2",
